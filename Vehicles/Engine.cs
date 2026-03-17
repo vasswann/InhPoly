@@ -18,5 +18,10 @@ namespace Vehicles
             this.Horsepower = horsepower;
             this.FuelType = fuelType;
         }
+
+        public void Start()
+        {
+            Running = true;
+        }
     }
 }

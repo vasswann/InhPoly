@@ -19,5 +19,10 @@ namespace Vehicles
             Model = model;
             EngineType = engineType;
         }
+
+        public void StartEngine()
+        {
+            EngineType.Start();
+        }
     }
 }
