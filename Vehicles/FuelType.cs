@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Vehicles
 {
-    internal class FuelType
+    internal enum FuelType
     {
+        Unleaded,
+        Leaded,
+        Diesel
     }
 }
