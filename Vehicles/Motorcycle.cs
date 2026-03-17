@@ -9,7 +9,7 @@ namespace Vehicles
     internal class Motorcycle : Vehicle
     {
         public bool HasSidecar { get; set; }
-        public Motorcycle(string make, string model, int speed, bool hasSideCar) : base(make, model, speed)
+        public Motorcycle(string make, string model, bool hasSideCar) : base(make, model, new MotorcycleEngine())
         {
             this.HasSidecar = hasSideCar;
         }
