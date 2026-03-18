@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{A4166512-81C0-4074-9DE4-C5AD75C94197}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonBattle", "PokemonBattle\PokemonBattle.csproj", "{99D9C134-0F73-486A-B72A-34C11851CDCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A4166512-81C0-4074-9DE4-C5AD75C94197}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4166512-81C0-4074-9DE4-C5AD75C94197}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4166512-81C0-4074-9DE4-C5AD75C94197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99D9C134-0F73-486A-B72A-34C11851CDCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9C134-0F73-486A-B72A-34C11851CDCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9C134-0F73-486A-B72A-34C11851CDCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9C134-0F73-486A-B72A-34C11851CDCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
